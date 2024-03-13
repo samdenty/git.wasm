@@ -1,3 +1,3 @@
 {
-    "startCommand": "echo Because it's 40MB, we will fetch git.wasm from github...; cat git.wasm > /dev/null; echo done fetching!; wasm git.wasm 'git' 'help'"
+    "startCommand": "./run.sh"
 }
